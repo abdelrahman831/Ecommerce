@@ -1,0 +1,11 @@
+﻿global using Domain.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Domain.Contracts;
+global using Persistance.Data;
+global using System;
+global using System.Collections.Concurrent;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
